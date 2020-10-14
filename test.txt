@@ -6,3 +6,4 @@ number 5
 witaj wędrowcze
 ZMIANA
 modtfikuje 
+np. dodaj asystenta pomocy 
