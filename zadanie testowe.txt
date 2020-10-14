@@ -1,2 +1,3 @@
 np. dodaj asystenta pomocy .txt.tct
 queres?
+ interfejs graficzny

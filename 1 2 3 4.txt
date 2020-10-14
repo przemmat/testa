@@ -1,3 +1,4 @@
 test
 stachu?
 np. dodaj asystenta pomocy 
+ interfejs graficzny

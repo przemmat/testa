@@ -7,3 +7,4 @@ witaj wędrowcze
 ZMIANA
 modtfikuje 
 np. dodaj asystenta pomocy 
+ interfejs graficzny
