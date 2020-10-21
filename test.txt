@@ -5,3 +5,10 @@ aaaaaaaaaaaaaaaaaa zmiana
 number 5
 witaj wędrowcze
 ZMIANA
+modtfikuje 
+hotfix
+np. dodaj asystenta pomocy 
+ interfejs graficzny
+easierApp
+1234
+uaua
