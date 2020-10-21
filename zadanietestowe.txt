@@ -3,4 +3,3 @@ queres?
  interfejs graficzny
 dasdasdasdas
 zmenna
-zmienna12
