@@ -13,3 +13,4 @@ easierApp
 1234
 uaua
 asdadadsadasdas
+zmiana push
